@@ -1,16 +1,51 @@
-## Hi there 👋
+# 个人简历
 
-<!--
-**ttiltt/ttiltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 基本信息
+- 姓名：Goodming  
+- 邮箱：deming797@gmail.com  
+- GitHub：ttiltt
+---
 
-Here are some ideas to get you started:
+## 教育背景
+**XX大学，本科，XX专业**  
+- GPA：X.XX/4.0 （或排名：前XX%）  
+- 连续四次获得校级奖学金（前10%，学业成绩优秀）  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 实习经历
+**XX公司 | 短期实习**  
+*20XX年X月 – 20XX年X月*  
+- 参与部门XXX工作，协助完成YYY流程  
+- 独立完成ZZZ任务（如数据整理、文档撰写、实验记录等）  
+- 熟悉了企业中YYY的基本流程和工具  
+
+---
+
+## 科研与项目经历
+**校级科研竞赛三等奖 | XX课题研究**  
+*20XX年X月 – 20XX年X月*  
+- 研究方向：XXXX（可写简短课题方向）  
+- 负责YYY工作，完成ZZZ成果  
+- 成果获校级科研三等奖  
+
+---
+
+## 校园经历与荣誉
+- 连续四次获得校级奖学金  
+- 校级科研竞赛三等奖  
+- （如有社团/学生干部经历，可加上）  
+
+---
+
+## 技能
+- **语言**：日语N2（可进行业务沟通），英语具备基本读写能力（正在提升）  
+- **办公软件**：Word / Excel / PPT 熟练  
+- **其他技能**：（如有 Python / Matlab / SPSS / CAD 等工具，可以写上）  
+
+---
+
+## 自我评价
+- 学习能力强，能够快速掌握新知识（如日语N2学习经历）  
+- 有科研训练和项目经验，注重逻辑思维和解决问题的方法  
+- 性格认真负责，能够适应团队合作与独立工作  
